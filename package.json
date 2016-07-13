@@ -1,5 +1,5 @@
 {
-  "name": "Real Time Weather App",
+  "name": "Real-Time-Weather-App",
   "version": "1.0.0",
   "description": "Real time weather in large US cities.",
   "main": "index.js",
